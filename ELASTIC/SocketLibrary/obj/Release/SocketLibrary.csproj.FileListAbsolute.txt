@@ -1,0 +1,18 @@
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.XML
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.XML
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\ResolveAssemblyReference.cache
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.XML
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.dll
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\bin\Release\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.dll
+C:\Users\shiyue\Desktop\C# App\Sources\SocketDllTest\SocketLibrary\obj\Release\SocketLibrary.pdb

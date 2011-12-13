@@ -1,0 +1,35 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.FormClient.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\bin\Debug\IHMClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\bin\Debug\IHMClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\IHMClient.exe
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\IHMClient.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.xml
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.FormClient.resources
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.exe
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\IHMClient.exe
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\IHMClient.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\bin\Debug\SocketLibrary.xml
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.FormClient.resources
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.exe
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMClient\obj\x86\Debug\IHMClient.pdb

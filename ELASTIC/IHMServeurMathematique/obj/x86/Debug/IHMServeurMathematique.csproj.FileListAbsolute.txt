@@ -1,0 +1,47 @@
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.exe
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.pdb
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Properties.Resources.resources
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.exe
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.pdb
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.dll
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.pdb
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Mathematique.resources
+H:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Mathematique.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Properties.Resources.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.exe
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.exe
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\IHMServeurMathematique.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.dll
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryMathematique.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Configuration.resources
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Mathematique.resources
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.Properties.Resources.resources
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\SocketLibrary.xml
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryInterfaceClient.dll
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryInterfaceServer.dll
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryDataStructure.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryInterfaceClient.pdb
+D:\ELASTIC\ELASTIC\IHMServeurMathematique\bin\Debug\LibraryInterfaceServer.pdb
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.exe
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMServeurMathematique\obj\x86\Debug\IHMServeurMathematique.pdb

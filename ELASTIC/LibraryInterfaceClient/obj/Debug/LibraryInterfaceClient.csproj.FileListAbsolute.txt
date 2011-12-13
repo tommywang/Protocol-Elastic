@@ -1,0 +1,10 @@
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\LibraryInterfaceClient.dll
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\LibraryInterfaceClient.pdb
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\SocketLibrary.xml
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\obj\Debug\LibraryInterfaceClient.dll
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\obj\Debug\LibraryInterfaceClient.pdb
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\LibraryInterfaceClient\bin\Debug\LibraryDataStructure.pdb

@@ -1,0 +1,20 @@
+C:\Users\shiyue\Desktop\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\MessageLibrary\MessageLibrary\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\MessageLibrary\MessageLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\MessageLibrary\MessageLibrary\obj\Debug\MessageLibrary.pdb
+E:\ELASTIC\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.dll
+E:\ELASTIC\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.pdb
+E:\ELASTIC\ELASTIC\MessageLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\ELASTIC\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.dll
+E:\ELASTIC\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\MessageLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\MessageLibrary\bin\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\MessageLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\MessageLibrary\obj\Debug\MessageLibrary.pdb

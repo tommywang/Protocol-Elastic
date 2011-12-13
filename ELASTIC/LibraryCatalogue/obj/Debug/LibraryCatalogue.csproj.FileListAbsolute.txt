@@ -1,0 +1,12 @@
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb

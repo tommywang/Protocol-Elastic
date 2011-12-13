@@ -1,0 +1,80 @@
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.dll
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.dll
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.pdb
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.pdb
+E:\ELASTIC\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.xml
+E:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+E:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+E:\ELASTIC\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.xml
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryCatalogue.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\LibraryInterfaceServer.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\SocketLibrary.xml
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\LibraryCatalogue\obj\Debug\LibraryCatalogue.pdb

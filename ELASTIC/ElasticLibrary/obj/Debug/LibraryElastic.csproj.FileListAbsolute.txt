@@ -1,0 +1,15 @@
+H:\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.dll
+H:\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.pdb
+H:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.dll
+H:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.pdb
+D:\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.dll
+D:\ELASTIC\ELASTIC\ElasticLibrary\bin\Debug\ElasticLibrary.pdb
+D:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.dll
+D:\ELASTIC\ELASTIC\ElasticLibrary\obj\Debug\ElasticLibrary.pdb

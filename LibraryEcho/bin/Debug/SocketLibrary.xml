@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SocketLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:SocketLibrary.Server">
+            <summary>
+            La classe Server de la couche Socket.
+            Elle implémente l'interface IServer qui sera manipulé par les entités externes à la bibliothèque.
+            </summary>
+            <example> 
+            Mise en oeuvre : 
+            <code> 
+                IServer monServeur = SocketLibrary.utils.createServeur(50000);
+                if (!myServer.start()) 
+                    erreur();
+                myServer.subscribe(listener);
+                myServer.send(id, message);
+                myServer.stop();
+                myServer.unsubscribe();
+            </code> 
+            </example>
+            <seealso cref="T:SocketLibrary.IServer"/>
+        </member>
+        <member name="T:SocketLibrary.IServer">
+            <summary>
+            L'interface IServer.
+            Tout serveur de la couche Socket doit implémenter cette interface.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.IServer.Start">
+            <summary>
+            Démarre le serveur et le met également sur écoute TCP.
+            </summary>
+            <returns>True si tout s'est bien passé, False sinon.</returns>
+        </member>
+        <member name="M:SocketLibrary.IServer.Stop">
+            <summary>
+            Arrête le serveur. Tous les processus légers sont interrompus, et la liste des clients est vidée.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.IServer.Send(System.Int32,System.Byte[])">
+            <summary>
+            Envoie un message à un client donné.
+            </summary>
+            <param name="id">Id du client auquel il faut envoyer le message</param>
+            <param name="msg">Tableau d'octet qui va être envoyé.</param>
+            <return>True si le message a été envoyé, false si le client est déconnecté ou n'existe pas.</return>
+        </member>
+        <member name="M:SocketLibrary.IServer.Broadcast(System.Byte[])">
+            <summary>
+            Envoie un message à tous les clients.
+            </summary>
+            <param name="msg">Tableau d'octet qui va être envoyé.</param>
+        </member>
+        <member name="M:SocketLibrary.IServer.Subscribe(System.Action{System.Object,SocketLibrary.ServerEventArgs})">
+            <summary>
+            Méthode d'abonnement évènementielle.
+            </summary>
+            <param name="listener">Procédure qui sera appelée lors de la levée de l'évènement.</param>
+        </member>
+        <member name="M:SocketLibrary.IServer.Unsubscribe">
+            <summary>
+            Méthode de désabonnement évènementielle.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.Server.#ctor(System.Int32)">
+            <summary>
+            Le constructeur de la classe Server.
+            </summary>
+            <param name="port">Port sur lequel le serveur va démarrer.</param>
+        </member>
+        <member name="M:SocketLibrary.Server.listenConnect">
+            <summary>
+            Méthode du processus léger écoutant les connexions des clients. A chaque nouveau client est associé un processus léger ainsi qu'une socket.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.Server.receiveClientMsg(System.Object)">
+            <summary>
+            Méthode du processus léger écoutant les messages des clients. Le processus léger est bloquant sur le receive, et implique que la taille du message soit contenue dans les quatre premiers octets de celui-ci.
+            Un event est levé à chaque réception de message.
+            </summary>
+        </member>
+        <member name="T:SocketLibrary.ServerEventArgs">
+            <summary>
+            La classe ServerEventArgs.
+            Ce sera le type de l'évènement levé à chaque réception de message.
+            </summary>
+            <seealso cref="T:System.EventArgs"/>
+        </member>
+        <member name="M:SocketLibrary.ServerEventArgs.#ctor(System.Int32,SocketLibrary.ServerEventArgs.typeEvent,System.Byte[])">
+            <summary>
+            Le constructeur de l'évènement.
+            </summary>
+            <param name="id">Identifiant du client qui a envoyé le message.</param>
+            <param name="type">Le type de l'évènement.</param> 
+            <param name="msg">Le message sous la forme d'un tableau d'octet.</param>
+        </member>
+        <member name="P:SocketLibrary.ServerEventArgs.Id">
+            <summary>
+            Propriété d'accès à la Socket liée à l'évènement.
+            </summary>
+            <returns>L'id du client relatif à l'évènement.</returns>
+        </member>
+        <member name="P:SocketLibrary.ServerEventArgs.Msg">
+            <summary>
+            Propriété d'accès au message lié à l'évènement.
+            </summary>
+            <returns>Le message reçu.</returns>
+        </member>
+        <member name="P:SocketLibrary.ServerEventArgs.Type">
+            <summary>
+            Propriété d'accès au type de l'évènement.
+            </summary>
+            <returns>Le type de l'évènement.</returns>
+        </member>
+        <member name="T:SocketLibrary.ServerEventArgs.typeEvent">
+            <summary>
+            L'énumération définissant les différents type d'évènements lancés par le serveur.
+            </summary>
+        </member>
+        <member name="F:SocketLibrary.ServerEventArgs.typeEvent.CONNEXION">
+            <summary>
+            Type d'un évènement lancé lors d'une connexion.
+            </summary>
+        </member>
+        <member name="F:SocketLibrary.ServerEventArgs.typeEvent.DECONNEXION">
+            <summary>
+            Type d'un évènement lancé lorsque le serveur réalise qu'un client s'est déconnecté.
+            </summary>
+        </member>
+        <member name="F:SocketLibrary.ServerEventArgs.typeEvent.MESSAGE">
+            <summary>
+            Type d'un évènement lancé lors de la réception d'un message.
+            </summary>
+        </member>
+        <member name="T:SocketLibrary.Utils">
+            <summary>
+            La classe utils.
+            Permet l'interfaçage de la couche Socket avec les assembly externes à la bibliothèque.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.Utils.CreateClient(System.String,System.Int32)">
+            <summary>
+            Crée un client.
+            </summary>
+            <param name="ip">Adresse IP sur laquelle le client doit se connecter.</param>
+            <param name="port">Port sur lequel le client doit se connecter.</param>
+            <returns>Le client qui pourra être manipulé.</returns>
+        </member>
+        <member name="M:SocketLibrary.Utils.CreateServer(System.Int32)">
+            <summary>
+            Crée un serveur.
+            </summary>
+            <param name="port">Port sur lequel le serveur va opérer.</param>
+            <returns>Le serveur qui pourra être manipulé.</returns>
+        </member>
+        <member name="T:SocketLibrary.IClient">
+            <summary>
+            L'interface IClient.
+            Tout client de la couche Socket doit implémenter cette interface.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.IClient.Connect">
+            <summary>
+            Connecte le client au serveur.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.IClient.Send(System.Byte[])">
+            <summary>
+            Envoie un message au serveur sur lequel le client est connecté.
+            </summary>
+            <param name="msg">Tableau d'octet qui va être envoyé.</param>
+        </member>
+        <member name="M:SocketLibrary.IClient.Disconnect">
+            <summary>
+            Déconnecte le client du serveur.
+            </summary>
+        </member>
+        <member name="M:SocketLibrary.IClient.Subscribe(System.Action{System.Object,SocketLibrary.ClientEventArgs})">
+            <summary>
+            Méthode d'abonnement évènementielle.
+            </summary>
+            <param name="listener">Procédure qui sera appelée lors de la levée de l'évènement.</param>
+        </member>
+        <member name="M:SocketLibrary.IClient.Unsubscribe">
+            <summary>
+            Méthode de désabonnement évènementielle.
+            </summary>
+        </member>
+        <member name="T:SocketLibrary.Client">
+            <summary>
+            La classe Client de la couche Socket.
+            Elle implémente l'interface IClient qui sera manipulé par les entités externes à la bibliothèque.
+            </summary>
+            <example> 
+            Mise en oeuvre : 
+            <code> 
+                IClient monServeur = SocketLibrary.utils.createClient(127.0.0.1, 50000);
+                myClient.subscribe(clientEventFunc);
+                if (!myClient.connect()) 
+                    erreur();
+                myClient.send(message);
+                myClient.disconnect();
+                myClient.unsubscribe();
+            </code> 
+            </example>
+            <seealso cref="T:SocketLibrary.IClient"/>
+        </member>
+        <member name="M:SocketLibrary.Client.#ctor(System.String,System.Int32)">
+            <summary>
+            Le constructeur de la classe Client.
+            </summary>
+            <param name="ip">Adresse du serveur.</param>
+            <param name="port">Port du serveur sur lequel le client va se connecter.</param>
+        </member>
+        <member name="M:SocketLibrary.Client.receiveMessage">
+            <summary>
+            Méthode du processus léger écoutant les messages du serveur. Le processus léger est bloquant sur le receive, et implique que la taille du message soit contenue dans les quatre premiers octets de celui-ci.
+            Un event est levé à chaque réception de message.
+            </summary>
+        </member>
+        <member name="T:SocketLibrary.ClientEventArgs">
+            <summary>
+            La classe ClientEventArgs.
+            Ce sera le type de l'évènement levé à chaque réception de message.
+            </summary>
+            <seealso cref="T:System.EventArgs"/>
+        </member>
+        <member name="M:SocketLibrary.ClientEventArgs.#ctor(System.Byte[])">
+            <summary>
+            Le constructeur de l'évènement.
+            </summary>
+            <param name="msg">Le message sous la forme d'un tableau d'octet.</param>
+        </member>
+        <member name="P:SocketLibrary.ClientEventArgs.Msg">
+            <summary>
+            Propriété d'accès au message lié à l'évènement.
+            </summary>
+            <returns>Le message reçu.</returns>
+        </member>
+    </members>
+</doc>

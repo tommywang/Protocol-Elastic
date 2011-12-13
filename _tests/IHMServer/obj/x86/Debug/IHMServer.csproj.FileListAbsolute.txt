@@ -1,0 +1,35 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.FormServer.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\bin\Debug\IHMServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\bin\Debug\IHMServer.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\IHMServer.exe
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\IHMServer.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.xml
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.FormServer.resources
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.Properties.Resources.resources
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.exe
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\IHMServer.exe
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\IHMServer.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\bin\Debug\SocketLibrary.xml
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.FormServer.resources
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.Properties.Resources.resources
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.exe
+H:\cs\socketLib\socketLib\sample\SocketDllTest\IHMServer\obj\x86\Debug\IHMServer.pdb

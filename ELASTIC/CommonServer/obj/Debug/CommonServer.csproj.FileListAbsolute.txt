@@ -1,0 +1,5 @@
+D:\ELASTIC\ELASTIC\CommonServer\bin\Debug\CommonServer.dll
+D:\ELASTIC\ELASTIC\CommonServer\bin\Debug\CommonServer.pdb
+D:\ELASTIC\ELASTIC\CommonServer\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\CommonServer\obj\Debug\CommonServer.dll
+D:\ELASTIC\ELASTIC\CommonServer\obj\Debug\CommonServer.pdb

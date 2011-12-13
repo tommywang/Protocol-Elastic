@@ -1,0 +1,20 @@
+C:\Users\shiyue\Desktop\SubcriberLibraryBis\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+C:\Users\shiyue\Desktop\SubcriberLibraryBis\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+C:\Users\shiyue\Desktop\SubcriberLibraryBis\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\SubcriberLibraryBis\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+C:\Users\shiyue\Desktop\SubcriberLibraryBis\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb
+H:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+H:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+H:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+H:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\bin\Debug\SubscriberLibrary.pdb
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.dll
+D:\ELASTIC\ELASTIC\SubcriberLibrary\obj\Debug\SubscriberLibrary.pdb

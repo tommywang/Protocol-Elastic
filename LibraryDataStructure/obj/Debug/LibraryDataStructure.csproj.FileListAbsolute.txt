@@ -1,0 +1,25 @@
+D:\ELASTIC\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.pdb
+D:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.pdb
+E:\ELASTIC\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.dll
+E:\ELASTIC\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.pdb
+E:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\ResolveAssemblyReference.cache
+E:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.dll
+E:\ELASTIC\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryDataStructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\ELASTIC\LibraryDataStructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryDataStructure\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryDataStructure\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\LibraryDataStructure\obj\Debug\LibraryDataStructure.pdb

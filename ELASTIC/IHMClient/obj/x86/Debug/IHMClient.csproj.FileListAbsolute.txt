@@ -1,0 +1,52 @@
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Client.resources
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Configuration.resources
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.exe
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.pdb
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.exe
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.pdb
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterface.dll
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.dll
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterface.pdb
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.pdb
+H:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.xml
+H:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Requete.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterface.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterface.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Client.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Requete.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.exe
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.pdb
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.exe
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\IHMClient.pdb
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\SocketLibrary.xml
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Client.resources
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Configuration.resources
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Properties.Resources.resources
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.Requete.resources
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterfaceClient.dll
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryDataStructure.pdb
+D:\ELASTIC\ELASTIC\IHMClient\bin\Debug\LibraryInterfaceClient.pdb
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.exe
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMClient\obj\x86\Debug\IHMClient.pdb

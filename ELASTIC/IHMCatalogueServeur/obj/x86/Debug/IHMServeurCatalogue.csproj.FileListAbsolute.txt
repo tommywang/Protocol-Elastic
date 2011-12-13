@@ -1,0 +1,51 @@
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Catalogue.resources
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Properties.Resources.resources
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.exe
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.pdb
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterface.dll
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.dll
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterface.pdb
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.pdb
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.xml
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Configuration.resources
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.exe
+H:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterface.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterface.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Catalogue.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Properties.Resources.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.exe
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.pdb
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.exe
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\IHMCatalogueServeur.pdb
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\SocketLibrary.xml
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Catalogue.resources
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Configuration.resources
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.Properties.Resources.resources
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterfaceServer.dll
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryInterfaceServer.pdb
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryCatalogue.dll
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryCatalogue.pdb
+D:\ELASTIC\ELASTIC\IHMCatalogueServeur\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.exe
+C:\Users\shiyue\Desktop\ELASTIC\ELASTIC\IHMCatalogueServeur\obj\x86\Debug\IHMCatalogueServeur.pdb

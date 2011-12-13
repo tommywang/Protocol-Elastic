@@ -1,0 +1,53 @@
+C:\Users\desty\Documents\Visual Studio 2010\Projects\Protocol\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\desty\Documents\Visual Studio 2010\Projects\Protocol\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\Visual Studio 2010\Projects\Protocol\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Users\desty\Documents\Visual Studio 2010\Projects\Protocol\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\Visual Studio 2010\Projects\Protocol\SocketLibrary\obj\Debug\SocketLibrary.pdb
+H:\cs\Protocool\Protocol\SocketLibrary\bin\Debug\SocketLibrary.dll
+H:\cs\Protocool\Protocol\SocketLibrary\bin\Debug\SocketLibrary.pdb
+H:\cs\Protocool\Protocol\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\cs\Protocool\Protocol\SocketLibrary\obj\Debug\SocketLibrary.dll
+H:\cs\Protocool\Protocol\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\ProtocoolFinal\Protocol\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\ProtocoolFinal\Protocol\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\ProtocoolFinal\Protocol\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\ProtocoolFinal\Protocol\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\ProtocoolFinal\Protocol\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Test\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Test\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Test\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.XML
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Users\desty\Documents\M2\semestre1\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.pdb
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\bin\Debug\SocketLibrary.XML
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.dll
+H:\cs\socketLib\socketLib\sample\SocketDllTest\SocketLibrary\obj\Debug\SocketLibrary.pdb
+H:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+H:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+H:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+H:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+H:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+D:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb

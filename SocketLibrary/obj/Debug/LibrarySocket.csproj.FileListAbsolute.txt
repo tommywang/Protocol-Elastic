@@ -1,0 +1,18 @@
+E:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+E:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+E:\ELASTIC\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+E:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+E:\ELASTIC\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\bin\Debug\SocketLibrary.XML
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\SocketLibrary\obj\Debug\SocketLibrary.pdb

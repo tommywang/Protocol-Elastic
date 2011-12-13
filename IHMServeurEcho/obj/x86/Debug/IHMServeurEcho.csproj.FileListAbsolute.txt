@@ -1,0 +1,158 @@
+H:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+H:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+H:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+H:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+H:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+D:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+E:\ELASTIC\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ELASTIC\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shiyue\Desktop\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.dll
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.pdb
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\2700546\Bureau\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.exe
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.exe
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\IHMServeurEcho.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.dll
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryDataStructure.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryEcho.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceClient.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\LibraryInterfaceServer.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\SocketLibrary.xml
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\bin\Debug\MessageLibrary.pdb
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Configuration.resources
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Echo.resources
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\IHMServeurEcho.Properties.Resources.resources
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\shiyue\Desktop\Nouveau dossier\ELASTIC\IHMServeurEcho\obj\x86\Debug\GenerateResource.write.1.tlog
